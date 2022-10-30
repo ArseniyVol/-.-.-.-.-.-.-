@@ -1,0 +1,25 @@
+p {
+    color: sandybrown;
+    font-size: 64px;
+    font-family: "Arial";
+}
+div{
+    width: 70%;
+    margin: auto;
+    font-family: "Arial";
+    background-color:magenta;
+}
+
+a {
+    text-decoration:none;
+    color: khaki;
+    display: block;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+body{
+    background-color: mediumseagreen;
+}
